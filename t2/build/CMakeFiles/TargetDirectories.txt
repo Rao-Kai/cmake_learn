@@ -1,0 +1,4 @@
+/home/kai/cmake_learn/t2/build/CMakeFiles/rebuild_cache.dir
+/home/kai/cmake_learn/t2/build/CMakeFiles/hello.dir
+/home/kai/cmake_learn/t2/build/CMakeFiles/edit_cache.dir
+/home/kai/cmake_learn/t2/build/CMakeFiles/main.dir
