@@ -4,3 +4,6 @@
 
 ### cmake gdb编译调试代码配置
 https://zhuanlan.zhihu.com/p/410219342
+
+### cmake教程文档
+https://cmake.org/documentation/
